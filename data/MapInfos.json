@@ -1,10 +1,10 @@
 [
 null,
 {"id":1,"expanded":true,"name":"IntroMap","order":2,"parentId":0,"scrollX":1131,"scrollY":641.5},
-{"id":2,"expanded":false,"name":"040-Relic Cave","order":6,"parentId":0,"scrollX":1139,"scrollY":641.5},
-null,
+{"id":2,"expanded":true,"name":"040-Relic Cave","order":6,"parentId":0,"scrollX":1131,"scrollY":641.5},
+{"id":3,"expanded":false,"name":"050-TheCity","order":7,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":4,"expanded":true,"name":"010-Starship","order":3,"parentId":0,"scrollX":1234,"scrollY":641.5},
 {"id":5,"expanded":true,"name":"020-LandingZone","order":4,"parentId":0,"scrollX":1131,"scrollY":849.5},
-{"id":6,"expanded":false,"name":"DebugMap","order":1,"parentId":0,"scrollX":1131,"scrollY":798.5},
+{"id":6,"expanded":false,"name":"DebugMap","order":1,"parentId":0,"scrollX":1139,"scrollY":798.5},
 {"id":7,"expanded":true,"name":"030-AncientWorld","order":5,"parentId":0,"scrollX":1131,"scrollY":641.5}
 ]
